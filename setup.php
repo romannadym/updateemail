@@ -10,9 +10,9 @@ function plugin_version_updateemail() {
    return [
       'name'           => 'UpdateEmail',
       'version'        => PLUGIN_UPDATEEMAIL_VERSION,
-      'author'         => 'Your Name',
-      'license'        => 'GPLv2+',
-      'homepage'       => 'https://example.com',
+      'author'         => 'Roman Yahin',
+      'license'        => 'GPLv3+',
+      'homepage'       => 'https://github.com/romannadym/updateemail',
       'minGlpiVersion' => PLUGIN_UPDATEEMAIL_MIN_GLPI_VERSION,
    ];
 }
